@@ -84,6 +84,7 @@ Communication Logging:
         Assign tasks related to follow-up or next steps.
 
 m ignoring, these changes done in practice branch
+why?
 Analytics:
     Engagement metrics: 
         Track open rates, click-through rates, and response times for email and SMS campaigns.

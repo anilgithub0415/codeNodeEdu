@@ -1,0 +1,3 @@
+before installation
+    dont use env keys name like apikey
+    
